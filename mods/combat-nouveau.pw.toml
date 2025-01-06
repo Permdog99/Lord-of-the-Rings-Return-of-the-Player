@@ -1,0 +1,13 @@
+name = "Combat Nouveau"
+filename = "CombatNouveau-v21.1.1-1.21.1-Fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Iv3kcKZn/versions/i9tRQ8bf/CombatNouveau-v21.1.1-1.21.1-Fabric.jar"
+hash-format = "sha512"
+hash = "5ef762b0f9aaa9ad838808fa8639f3da34ed2fd12795b5ac8ee2640056d3696726d91a4b4f1661940ef9f1c90ca87ade1387a2af1bdf61037cb7b9d1c5ef0b97"
+
+[update]
+[update.modrinth]
+mod-id = "Iv3kcKZn"
+version = "i9tRQ8bf"
