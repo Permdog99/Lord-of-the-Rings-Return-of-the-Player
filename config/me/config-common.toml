@@ -1,0 +1,31 @@
+# Server Configs 
+# This file stores server/host configuration options for the Middle-earth mod. 
+
+# World configurations 
+    # Should players respawn at their selected spawn location in Middle-earth if they die without having a bed assigned? 
+    # Accept values: boolean | Default: true 
+    enableSpawnOverride=true
+    # Should players be able to return to the overworld by reusing the starlight phial? 
+    # Accept values: boolean | Default: true 
+    enableReturnToOverworld=false
+
+# Faction configurations 
+    # Should players be allowed to change factions when they use the starlight phial? 
+    # Accept values: boolean | Default: true 
+    enableFactionReset=true
+    # Should players keep their race when returning to the Overworld 
+    # Accept values: boolean | Default: true 
+    enableRaceSwapOnDimensionSwap=true
+    # Amount of time before teleporting 
+    # Accept values: int | Default: 3 
+    delayOnTeleportConfirmation=3
+
+# Mount configurations 
+    # Should players and NPCs be allowed to ride broadhoof goats? 
+    # Accept values: boolean | Default: true 
+    enableMountBroadhoofGoat=true
+# Food configurations 
+    # Should players be allowed to craft golden apples and golden carrots in Middle-earth? 
+    # Accept values: boolean | Default: false 
+    enableGoldenFoodRecipes=false
+
