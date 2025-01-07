@@ -2,11 +2,39 @@ hash-format = "sha256"
 
 [[files]]
 file = "LICENSE"
-hash = "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986"
+hash = "b219ad9f6696074078f80c6022fcd140a325dee4addcd41530775a3c2f526b2e"
 
 [[files]]
 file = "README.md"
 hash = "6ff5092b06457167c58a2998ee311289eaf870c460db6cc8452b1d67b2cdcc43"
+
+[[files]]
+file = "config/combatnouveau-client.toml"
+hash = "d8bddc364abcee6b260746e0e2b841cca6be31696dc6f42ca3747fa0682e8952"
+
+[[files]]
+file = "config/combatnouveau-common.toml"
+hash = "2d5233abbb0c0bf7014ee8b16f29bad036c0f708956643d9c6ddad054b8f0e01"
+
+[[files]]
+file = "config/combatnouveau-server.toml"
+hash = "ccbdf36b42015479b20a8eca7d0510cb867ad35deee2521a928ec6481fb7c2a3"
+
+[[files]]
+file = "config/me/config-client.toml"
+hash = "a5207aa1f6e3766731ac5c42b36b4b99a7344923568255d9685388953bf19bb7"
+
+[[files]]
+file = "config/me/config-common.toml"
+hash = "2a9966a859e91411d02893d4f226b1516c5042359d04b5ccc15c65ed1a7c82cb"
+
+[[files]]
+file = "config/nostalgic_tweaks/nostalgic_tweaks.json"
+hash = "4752f4bf00ac997bd44c8b0dfa0a579d371517967f3f96e052595ef65ec39e63"
+
+[[files]]
+file = "config/openloader/packs/MER/pack.mcmeta"
+hash = "c5be6087179054cac591e9c517c4bb1c4592c5eb20c6fce0c30a68ade5bf042f"
 
 [[files]]
 file = "config/yosbr/config/badoptimizations.txt"
@@ -57,8 +85,57 @@ file = "config/yosbr/options.txt"
 hash = "2be2b5c10139cacd044848f7ecc86e345ae2d7ae855baeeb1e8e87b4342194eb"
 
 [[files]]
-file = "mods/3dskinlayers.pw.toml"
-hash = "81f72955e64568bc01f7a22015c32706badfb52ec7f094b392b0a8722aef837e"
+file = "config/yosbr/roughlyenoughitems/collapsible.json5"
+hash = "a59667baa54738c1b294393a9b3652bcf7d392cdb8cba1c08a8006885b18e919"
+
+[[files]]
+file = "config/yosbr/roughlyenoughitems/config.json5"
+hash = "2ba6ca61dcc6e9df7fc827cecc6b85b3422a25de2ddc2ae04d5276790171cb2e"
+
+[[files]]
+file = "config/yosbr/roughlyenoughitems/favorites.json5"
+hash = "589c13e9ebbb9ae1b868d73be8c4e30323dcb03efacf59d75b9d614f1b069b47"
+
+[[files]]
+file = "config/yosbr/roughlyenoughitems/hints.json"
+hash = "06af45fea801bf4499cfe8e2efde64235dddd1368595e58c2a7432ad53fb7ae6"
+
+[[files]]
+file = "config/yosbr/roughlyenoughitems/pinyin.properties"
+hash = "fda2d9a503dfc56d135b0a07f488fb534eeb2f31d9be1b82c5f0697b8d266b02"
+
+[[files]]
+file = "config/yosbr/roughlyenoughitems/pinyin_double.properties"
+hash = "997cfa2f0aed9134654ee34c5fc2e4da820ac82719a7d6a2235d497991b0d4b1"
+
+[[files]]
+file = "config/yosbr/sodium-shadowy-path-blocks-options.json"
+hash = "fb5aa7f141c53182f87e55177ae40132ba118ed796b91193bcdc1ee27b8545c2"
+
+[[files]]
+file = "config/yosbr/xaerominimap-common.txt"
+hash = "b410746ddef0f7dd5f1d860ef3fcd6ad29c10988abbf6281181cb9c3acb628ca"
+
+[[files]]
+file = "config/yosbr/xaerominimap.txt"
+hash = "b90da1566ca5a0492f4abd3a15caf9116323dc27cc9e00cfdbff882882013fa2"
+
+[[files]]
+file = "config/yosbr/xaeroworldmap-common.txt"
+hash = "ab09b6171d1f5f9c15d3ea653be739b53bca6f88db1ec38ae80575143c4c68cd"
+
+[[files]]
+file = "config/yosbr/xaeroworldmap.txt"
+hash = "6cae8c6c64eeebf4dd15076b8f172a440bf1ece460aef63d3abe206e2d45fe8f"
+
+[[files]]
+file = "mods/accessories-tc-layer.pw.toml"
+hash = "bd5d617d5a7517e54f375299d0a81179d0be35c83f832564be314da581024bce"
+metafile = true
+
+[[files]]
+file = "mods/accessories.pw.toml"
+hash = "cdbb31cd941bfde2ead265135e4a23ae057475f4635f4de500226d4160e595bc"
 metafile = true
 
 [[files]]
@@ -87,6 +164,11 @@ hash = "b21ef031c6ad139361352529cb63f4799ffa91008895e1c7a9a5102ea007ae2d"
 metafile = true
 
 [[files]]
+file = "mods/balm.pw.toml"
+hash = "b2e77534a9679a237221d874b95bfc5d264cfa4d3b25dbf321ad939baedc0740"
+metafile = true
+
+[[files]]
 file = "mods/better-ping-display-fabric.pw.toml"
 hash = "b97914d02e3e24091a3fed92803b409ba5a3773668d81292b99e1cd735184996"
 metafile = true
@@ -112,6 +194,11 @@ hash = "bdd7d1d38603316ffb37e1dc4cb2cb7a68e3646fa6e66efcdc3b76432047e18d"
 metafile = true
 
 [[files]]
+file = "mods/cicada.pw.toml"
+hash = "6a43a535e6b10a72864dcb723793136dfeb99c56cf925929bb72e5e22d0dd436"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "446c173c87b7908daee86b0dee89c6b628c77beb7a0bc091ff5252b7c0062080"
 metafile = true
@@ -119,6 +206,11 @@ metafile = true
 [[files]]
 file = "mods/combat-nouveau.pw.toml"
 hash = "84c1b6b3d4685693fd368792c04ee80fb68a34de4217ebb34ff4762493df997d"
+metafile = true
+
+[[files]]
+file = "mods/comforts.pw.toml"
+hash = "157e9ed75307c70b4c768fa15f3975b21ac5a70fc3580cd455e0aa8e23ff5d55"
 metafile = true
 
 [[files]]
@@ -149,6 +241,11 @@ metafile = true
 [[files]]
 file = "mods/ebe.pw.toml"
 hash = "b1f89407254a20cde6c60994a6315bd841b7f562669a1d29b436ec97463ff2ae"
+metafile = true
+
+[[files]]
+file = "mods/emi.pw.toml"
+hash = "f436fa1c712cb1aaaa8fc833c07838b1ba7b719958d11540a758ec74152c500d"
 metafile = true
 
 [[files]]
@@ -202,6 +299,16 @@ hash = "88a820c55f782886fbb3d063b1db33d89c924012b20554cd5aec3d27f3ce1819"
 metafile = true
 
 [[files]]
+file = "mods/inmis.pw.toml"
+hash = "830096662326cf3a4c2b9565caed56f8c38f2a0fde20acfcd2615252a4b717fb"
+metafile = true
+
+[[files]]
+file = "mods/inmisaddon.pw.toml"
+hash = "b97a5d23920a5f128566ce91d4728fd850316c72a9114e9c7ca88d02c0fbd4d2"
+metafile = true
+
+[[files]]
 file = "mods/iris.pw.toml"
 hash = "12ccc252376279689c9f3073f55bb8685ccd1c5f0c435b96c89e71d1b4396c72"
 metafile = true
@@ -209,6 +316,11 @@ metafile = true
 [[files]]
 file = "mods/jade.pw.toml"
 hash = "17f2b0bb963e90e7e59f9356c81fe4a5857fcbad812cbab6b0eb39400ba428f1"
+metafile = true
+
+[[files]]
+file = "mods/jamlib.pw.toml"
+hash = "810502d11bcaa9ef80bb54185880131ebabbdd208f40cd1f7541ee4643c71749"
 metafile = true
 
 [[files]]
@@ -312,11 +424,6 @@ hash = "375ae78c4e4cb43a9a172f6866de6011d4d01eaaede76d23a38a157663e43ff2"
 metafile = true
 
 [[files]]
-file = "mods/rei.pw.toml"
-hash = "c7faa4bd63a6e637652af59586596203726ce2f76d4bb22343bdc1bcccb446c0"
-metafile = true
-
-[[files]]
 file = "mods/searchables.pw.toml"
 hash = "8302da862578554b012b2cfe58a3c1e75b514d09f94d842e7303be41a2157aeb"
 metafile = true
@@ -324,6 +431,11 @@ metafile = true
 [[files]]
 file = "mods/servercore.pw.toml"
 hash = "cfbcb74eec1633a4941c2295cefdf6d1767cd9635494d5e2ec4351728468a3ab"
+metafile = true
+
+[[files]]
+file = "mods/show-me-your-skin.pw.toml"
+hash = "b0af06e4699a4e17ae158d3a50a21d13dcd1f759f1ec2373e7d147f4a3a68239"
 metafile = true
 
 [[files]]
@@ -372,6 +484,11 @@ hash = "e77fe4473df0685a27bdc27f9a50c0dced4d298a2765301c2b1f0b11e078a887"
 metafile = true
 
 [[files]]
+file = "mods/utility-belt.pw.toml"
+hash = "552bdc415b71e8219b578b3964b7ff77ffaa4afe0ddb3758140daae83d378803"
+metafile = true
+
+[[files]]
 file = "mods/visuality.pw.toml"
 hash = "39426bfeeab22ea17f94fd3904dd9b78f9a3c9b4ddcb732b734ddbfd0e3568af"
 metafile = true
@@ -384,6 +501,11 @@ metafile = true
 [[files]]
 file = "mods/wakes.pw.toml"
 hash = "b76ffe80c018dde453c9dad8f4179238acaa02e56e7b82071a3cc52419e80dc7"
+metafile = true
+
+[[files]]
+file = "mods/waystones.pw.toml"
+hash = "583bbfb5616668d09386b7b5d7378ad85a6c67f99831e0c3d1586d1dff19f7ae"
 metafile = true
 
 [[files]]
